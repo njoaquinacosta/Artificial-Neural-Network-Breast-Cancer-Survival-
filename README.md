@@ -31,5 +31,10 @@ Landwehr, J. M., Pregibon, D., and Shoemaker, A. C. (1984), Graphical Models for
 Lo, W.-D. (1993). Logistic Regression Trees, PhD thesis, Department of Statistics, University of Wisconsin, Madison, WI: http://rexa.info/paper/4f2ee312e02a9897433db0f1631f74b5f7bf56e6
 
 #######################################################
+SOURCE: 
+DONOR: Tjen-Sien Lim (limt '@' stat.wisc.edu)
+
+#######################################################
+CITATIONS: UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 CITATIONS
 SOURCE: UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
